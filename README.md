@@ -1,4 +1,13 @@
-## Welcome to GitHub Pages
+## Deep Learning
+
+A neural network architecture that's capable of recognizing which object appears in the photograph. 
+
+This project will also train the neural network with thousands of images so it can tell the difference between different kinds of objects, like dogs and airplanes.
+
+The project goes onto to show how to use transfer learning to leverage pre-trained neural networks to build object recognition systems more quickly and with less training data. 
+
+Finally the project will show how to use cloud-based object recognition APIs as an alternative to building our own neural networks. 
+
 
 You can use the [editor on GitHub](https://github.com/MichaelAdame/Deep-Learning-Image-Recog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
